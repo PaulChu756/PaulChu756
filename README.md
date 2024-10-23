@@ -6,7 +6,7 @@ Software Developer
 
 My name is Paul Chu, a Computer Science graduate from the University of Louisiana at Lafayette with a five-year background in the creative field. This unique combination of experiences has shaped my innovative approach to software development.
 
-I am currently working as a Jr. Web Designer/Developer at Comit Developers, where I develop and maintain responsive websites using HTML, CSS, JavaScript, jQuery, and WordPress. My focus is on implementing SEO best practices and optimizing performance and accessibility to enhance client web presence and user engagement.
+I am currently working as a Web Developer at Guidry Game Dev, where I develop and maintain responsive websites using HTML, CSS, JavaScript, jQuery, and games using Unity 3D. My focus is on implementing SEO best practices and optimizing performance and accessibility to enhance client web presence and user engagement.
 
 Previously, I worked on an aviation safety project, transforming a web application into a mobile app using Capacitor. My goal was to enhance functionality and user experience, leveraging my creative and technical skills to make impactful contributions to the aviation industry.
 
@@ -14,9 +14,9 @@ I am passionate about leveraging my skills to make meaningful contributions to t
 
 * 🌍  I'm based in Lafayette, Louisiana
 * ✉️  You can contact me at [paulchu756@gmail.com](mailto:paulchu756@gmail.com)
-* 🚀  I'm currently working on [Comit Developers](comitdevelopers.com)
+* 🚀  I'm currently working on [Guidry Game Dev](https://guidrygamedev.com)
 * 🧠  I'm learning React
-
+`
 ### Skills
 
 
